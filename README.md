@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
-<h3 align="center">A passionate computer science student from Germany</h3>
+<h3 align="center">18 Years old. Enjoying Code.</h3>
 
 - 🌱 I’m currently learning **Flutter and C++**
 
