@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Flutter and C++**
 
+- 💫 I am very curious about **Machine Learning**
+
 - 💬 Ask me about **Python, Selenium**
 
 - 📫 How to reach me **f.klapper@yahoo.com**
