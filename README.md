@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
-<h3 align="center">Code Code Code</h3>
 
 - 🌱 I’m currently learning **Flutter and C++**
 
