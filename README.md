@@ -4,9 +4,9 @@
 
 - 💫 I am very curious about **Machine Learning**
 
-- 💬 Ask me about **Python, Selenium**
+- 💬 Ask me about **Python, Java, Mobile Development**
 
-- 📫 How to reach me **f.klapper@yahoo.com**
+- 📫 How to reach me **inquires@finnsh.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
